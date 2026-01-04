@@ -119,6 +119,10 @@ The design flow follows a structured hardware‑design approach:
 
 👉 [View Repository](https://github.com/Geejay19/mini-calculator)
 
+### 🔹**Traffic  Light Controller**
+This project implements a traffic light controller using SystemVerilog, designed as a multi‑phase digital design exercise. This system models a realistic two‑road traffic junction with priority logic, amber‑light timing, and safe state transitions.
+👉 [View Repository](https://github.com/Geejay19/sv-traffic-light-controller)
+
 ### 🔹 **Responsive Portfolio Website Design**  
 Built using HTML, CSS (Flexbox, Grid), and JavaScript  
 👉 [View Repository](https://github.com/Geejay19/sample-portfolio-website)  
